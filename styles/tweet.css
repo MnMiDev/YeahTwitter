@@ -279,11 +279,11 @@ body[style^="background-color: rgb(0, 0, 0);"], body.body-pitch-black {
 }
 
 .tweet-media-element-censor {
-    -moz-filter: blur(20px);
-    -webkit-filter: blur(20px);
+    -moz-filter: blur(00px);
+    -webkit-filter: blur(00px);
     cursor: pointer;
-    filter: blur(20px);
-    transform: scale(1.03)
+    filter: blur(00px);
+    transform: scale(1.00)
 }
 .yeah-tweet a:hover,
 .yeah-tweet .tweet-header-info:hover,
